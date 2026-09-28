@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Nav Automator</string>
+    <string name="app_description">Automates screen wake, orientation forcing, and app launching on ignition power connect, and turns off screen on power disconnect.</string>
+    <string name="section_target_app">Target Navigation App</string>
+    <string name="target_app_label">Selected App: %1$s</string>
+    <string name="target_app_package">Package: %1$s</string>
+    <string name="btn_select_app">Select Target App</string>
+    <string name="dialog_title_select_app">Select Target App</string>
+    <string name="no_app_selected">None Selected (Defaulting to OsmAnd / Google Maps)</string>
+    <string name="section_orientation">Screen Orientation</string>
+    <string name="radio_landscape">Force Landscape</string>
+    <string name="radio_portrait">Force Portrait</string>
+    <string name="service_status_stopped">Service Status: STOPPED</string>
+    <string name="service_status_running">Service Status: RUNNING</string>
+    <string name="btn_start_service">Start Service</string>
+    <string name="btn_stop_service">Stop Service</string>
+    <string name="section_required_permissions">Required Permissions</string>
+    <string name="overlay_status_not_granted">1. Display over other apps: NOT GRANTED</string>
+    <string name="overlay_status_granted">1. Display over other apps: GRANTED</string>
+    <string name="overlay_desc">Required to force landscape or portrait orientation overlay.</string>
+    <string name="btn_grant_overlay">Grant Overlay Permission</string>
+    <string name="admin_status_not_active">2. Device Admin (Turn Screen Off): NOT ACTIVE</string>
+    <string name="admin_status_active">2. Device Admin (Turn Screen Off): ACTIVE</string>
+    <string name="admin_desc">Required to lock and turn off screen when power disconnects.</string>
+    <string name="btn_enable_admin">Enable Device Admin</string>
+    <string name="notification_status_not_granted">3. Notification Permission: NOT GRANTED</string>
+    <string name="notification_status_granted">3. Notification Permission: GRANTED</string>
+    <string name="notification_desc">Required to run persistent foreground service.</string>
+    <string name="btn_grant_notification">Grant Notification Permission</string>
+    <string name="battery_status_not_excluded">4. Battery Optimization: NOT EXCLUDED</string>
+    <string name="battery_status_excluded">4. Battery Optimization: EXCLUDED</string>
+    <string name="battery_desc">Recommended to prevent system from killing background service.</string>
+    <string name="btn_battery_opt">Disable Battery Optimization</string>
+</resources>
