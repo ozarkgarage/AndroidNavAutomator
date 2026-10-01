@@ -1,6 +1,6 @@
 Not intended for use on any device deemed critical. Use at your own risk.
 
-App designed to turn an android device into a semi-dedicated navigation device. The goal was to have a dedicated phone for navigation that could beleft on the handlebars of a motorcycle with no accounts, subscriptions, or personal data in case of theft.
+App designed to turn an android device into a semi-dedicated navigation device. The goal was to have a dedicated phone for navigation that could be left on the handlebars of a motorcycle with no accounts, subscriptions, or personal data in case of theft.
 
 Main functionality:
 Power connected (ignition on): Screen on, force selected screen orientation, starts selected (navigation) app  
